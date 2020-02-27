@@ -78,7 +78,7 @@ export default function ProfilePage(props) {
             </GridContainer>
             <div className={classes.description}>
               <p>
-              Graduating in May 2021, with development experience in big/medium/startup tech companies.(See my Résumé) <br/> A developer with proficiency in Java, C/C++, Python, GO.
+              Graduating in May 2021, with development experience in big/medium/startup tech companies.(See my Résumé) <br/> A developer with proficiency in Java, C/C++, Python, GO, Javascript.
               </p>
               <p>
                 Visual Thinker, Adventure Lover, Idly Diligent{" "}
