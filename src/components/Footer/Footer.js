@@ -35,7 +35,7 @@ export default function Footer(props) {
               <a
                 className={classes.block}
               >
-                Tong Wang
+                Effortless uncomplication.
               </a>
             </ListItem>
             {/*<ListItem className={classes.inlineBlock}>*/}
