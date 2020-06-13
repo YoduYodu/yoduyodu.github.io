@@ -103,13 +103,13 @@ export default function ProfilePage(props) {
                           </ GridItem>
                           <GridItem xs={12} sm={12} md={4}>
                             <CustomCard title="Sentiment classifier" imgSrc={require("assets/img/happy-unhappy-faces.jpg")}
-                                        visitButtonText="Visit Site" visitButtonColor="default"
+                                        visitButtonText="Visit Site"
                                         githubButtonText="GitHub" githubButtonColor="primary" githubButtonHref="https://github.com/YoduYodu/sentiment-sensor-backend"
                                         content="A machine learning web application for classifying text sentiments, using python/django/react.js/fast.ai/mongoDB(NOSQL), deployed on Google Cloud Platform"/>
                           </ GridItem>
                             <GridItem xs={12} sm={12} md={4}>
                                 <CustomCard title="TripAdvisor(fullstack)" imgSrc={require("assets/img/tripadvisor.png")}
-                                            visitButtonText="Visit Site" visitButtonColor="default"
+                                            visitButtonText="Visit Site"
                                             githubButtonText="GitHub" githubButtonColor="primary" githubButtonHref="https://github.com/YoduYodu/trip-advisor-backend"
                                             content="A web application for hotel browsing, using React.js/Java/MySQL, deployed on Google Cloud Platform."/>
                             </ GridItem>
