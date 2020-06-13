@@ -13,10 +13,5 @@ a personal archive.
 * Create index.js, ProfilePage and its jss.
 * Create ProfilePage.test.js
 
-##### TODO
-
-* ~~Create index.js~~
-* ~~Learn to use Git in a test env.~~
-* Migrate my Résumé on cloud.
-* Finish unit tests
-* Learn History
+### Fri Jun 12 2020
+* Update Resume.
